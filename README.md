@@ -13,7 +13,7 @@ This is a simple Flutter application that displays an ID card with user details.
 ## Installation
 1. Clone this repository:
    ```sh
-   [git clone https://github.com/your-repo/flutter-id-card.git](https://github.com/susb47/susmoy-MAD-labtask-2.git)
+   [git clone https://github.com/susb47/susmoy-MAD-labtask-2.git](https://github.com/susb47/susmoy-MAD-labtask-2.git)
    ```
 2. Navigate to the project directory:
    ```sh
