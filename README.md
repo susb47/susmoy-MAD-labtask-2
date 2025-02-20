@@ -8,7 +8,7 @@ This is a simple Flutter application that displays an ID card with user details.
 - Uses a clean and modern UI design.
 
 ## Screenshot
-![ID Card Screenshot](assets/id_card_screenshot.png)
+![ID Card Screenshot](lib/lib/assets/images.jfif)
 
 ## Installation
 1. Clone this repository:
